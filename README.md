@@ -2,11 +2,16 @@
 The Salary Prediction project is a machine learning application designed to predict an individual's salary based on experience and interview score.
 
 ## Key Features:
-Predictive Modeling,
-Data Preprocessing,
-Feature Engineering, 
-Model Evaluation,
-Interactive Interface,
+Predictive Modeling
+
+Data Preprocessing
+
+Feature Engineering
+
+Model Evaluation
+
+Interactive Interface
+
 Scalable and Extensible.
 
 #### Technologies Used:
