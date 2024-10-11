@@ -1,5 +1,5 @@
-# Salary-Prediction
-The Salary Prediction project is a machine learning application designed to predict an individual's salary based on experience and interview score.
+# Employee-Salary-Prediction-Model
+The Employee Salary Prediction project uses machine learning to estimate an individual's salary based on factors like years of experience, current salary and interview scores. By analyzing these inputs, the model predicts a likely salary range, helping HR professionals make data-driven decisions.
 
 ## Key Features:
 Predictive Modeling
